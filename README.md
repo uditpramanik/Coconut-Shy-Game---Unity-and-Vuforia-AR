@@ -10,6 +10,9 @@ AR Version: Incorporates Vuforia to merge game elements with the real world, enh
 #Features
 
 Multi-level Difficulty: Easy, Medium, and Hard levels to cater to all player skills.
+
 Dynamic Obstacles: Increased game complexity with moving obstacles in higher difficulty levels.
+
 Customizable UI: Adapts for both desktop and mobile (AR) environments.
+
 Comprehensive Scoring System: Engages players by rewarding precision and strategy.
