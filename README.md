@@ -2,6 +2,11 @@
 This repository contains the Unity-based project for the Coconut Shy game. The project showcases both traditional (non-AR) and Augmented Reality (AR) versions of the game, utilizing the Vuforia AR package to enrich the user experience by blending physical skill, strategy, and digital augmentation.
 
 
+Visit this link for the Files and Repository
+
+https://drive.google.com/file/d/16sQ7Qr5aedn7vSQuUzx-rdYf1dFbR869/view?usp=sharing
+
+
 # Game Overview
 The Coconut Shy game is an innovative Unity-based project that merges traditional gameplay with augmented
 reality (AR) through Vuforia, bringing a classic fairground challenge into the digital age. Players engage in
