@@ -16,14 +16,14 @@ elements onto the real world, enhancing player immersion by allowing physical in
 through the device’s camera. This blend of physical skill, strategy, and digital augmentation offers a unique
 gaming experience across both AR and non-AR platforms.
 
-#**Project Structure**
+# **Project Structure**
 
 Non-AR Version: A standard Unity project allowing gameplay via keyboard and mouse.
 
 AR Version: Incorporates Vuforia to merge game elements with the real world, enhancing interactivity through physical device movement.
 
 
-#**Development Tools and Framework**
+# **Development Tools and Framework**
 
 Unity 3D: Selected for its comprehensive suite of game development tools, Unity 3D facilitates the creation
 of both 2D and 3D games. The platform’s versatility in physics handling, animation, and environmental design
@@ -34,7 +34,7 @@ capabilities. This allows the game to integrate digital objects into the real wo
 immersive AR experience on both Android and iOS devices.
 
 
-**#Contents of the Repository**
+3 # ** Contents of the Repository**
 
 Unity Projects: Contains separate folders for the AR and non-AR versions of the game.
 
@@ -43,7 +43,7 @@ Documentation: Includes detailed development reports and video demonstrations of
 Scripts and Assets: Provides all necessary C# scripts and Unity assets used in the game development, including custom physics behaviors and UI elements.
 
 
-#**Features**
+# **Features**
 
 Multi-level Difficulty: Easy, Medium, and Hard levels to cater to all player skills.
 
@@ -55,7 +55,7 @@ Comprehensive Scoring System: Engages players by rewarding precision and strateg
 
 
 
-#**Gameplay Experience Across Difficulty Levels**
+# **Gameplay Experience Across Difficulty Levels**
 
 Difficulty Progression: The game is designed to offer an escalating challenge through three levels for each
 of the AR and nonAR counterparts: Easy, Medium, and Hard. Each level adjusts the gameplay with increasing
@@ -66,7 +66,7 @@ consecutive hits or difficult shots. The scoring system is designed to reward sk
 players to improve their performance with each attempt
 
 
-#**Launching the Game**
+# **Launching the Game**
 
 Load the AR and Non AR files of the game into Unity (preferable version 2020.3) to launch the respective counterparts of the game.
 
